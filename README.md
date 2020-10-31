@@ -43,6 +43,6 @@ TEAM-SPS prototype submission
 
 10. Link for Video / ppt showing how the prototype works ( be as creative and innovative as possible ).  
 
-   PROVIDES IN PPTS.
+   PROVIDES IN THE FOLDER.
 
 11. Link for your website or app is https://xd.adobe.com/view/b70eb58a-98ee-46cb-964f-dde9a6f1bf08-e25d/
